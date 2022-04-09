@@ -2,7 +2,6 @@
 
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![GNU GENERAL PUBLIC LICENSE][license-shield]][license-url]
 
 
 
@@ -103,6 +102,4 @@ Distributed under the Apache License. See `LICENSE` file for more information.
 [stars-url]: https://github.com/WeAreTeamX/xfake-mailer/stargazers
 [issues-shield]: https://img.shields.io/github/issues/WeAreTeamX/xfake-mailer.svg?style=for-the-badge
 [issues-url]: https://github.com/WeAreTeamX/xfake-mailer/issues
-[license-shield]: https://img.shields.io/github/license/WeAreTeamX/xfake-mailer.svg?style=for-the-badge
-[license-url]: https://github.com/WeAreTeamX/xfake-mailer/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
